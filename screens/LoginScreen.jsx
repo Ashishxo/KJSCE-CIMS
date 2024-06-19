@@ -72,7 +72,7 @@ const styles = StyleSheet.create({
     fontSize: 42,
     color: 'black',
     fontWeight: '600',
-    marginBottom: 40,
+    marginBottom: 48,
     textAlign: 'center',
     fontFamily: 'Roboto-Regular',
   },
@@ -104,7 +104,7 @@ const styles = StyleSheet.create({
   logoView:{
     display: 'flex',
     alignItems:'center',
-    marginBottom: 56
+    marginBottom: 48
   },
 
   footerText: {

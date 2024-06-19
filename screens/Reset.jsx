@@ -27,7 +27,8 @@ export default Reset;
 const styles = StyleSheet.create({
     main: {
         flex:1,
-        alignItems: 'center'
+        alignItems: 'center',
+        backgroundColor:'#f7f7f7'
     },
 
     heading : {
